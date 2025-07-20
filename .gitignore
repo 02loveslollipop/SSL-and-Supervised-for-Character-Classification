@@ -1,3 +1,7 @@
 /datasets
 /idea.md
 test_flops.py
+/tmp
+*.json
+*.pth
+*.log
